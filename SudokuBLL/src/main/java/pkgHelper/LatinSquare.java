@@ -266,4 +266,8 @@ public class LatinSquare {
 		return false;
 
 	}
+	public int [][] getPuzzle() {
+		
+		return LatinSquare;
+	}
 }
